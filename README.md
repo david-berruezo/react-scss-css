@@ -1,6 +1,5 @@
 # React use scss , css and extra scripts
 
-## Source Code of MySQL Projects
 ![Screenshot](/bg.jpg)<br>
 
 ### 01 step
